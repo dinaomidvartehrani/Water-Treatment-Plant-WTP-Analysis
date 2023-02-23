@@ -17,8 +17,11 @@ of each attribute at different stages of water treatment, including the
 Raw, Filter, Finish steps, etc. </br> 
 Our team conducted research and met with the development manager of the company.
 Based on the initial research we aim to identify relationships between
-features such as color and turbidity, UVA and turbidity, UVT and
-turbidity, and pH and temperature. </br>
+features such as </br>
+i. Color and Turbidity </br>
+ii. UVA and turbidity </br>
+iii. UVT and turbidity </br>
+iv. pH and temperature </br>
 We can use statistical methods such as the Pearson correlation coefficient or the Spearman rank correlation
 coefficient to find the correlation between the above attributes. We can
 also visualize the correlation using a scatter plot to see their
