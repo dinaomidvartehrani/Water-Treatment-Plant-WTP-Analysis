@@ -1,4 +1,4 @@
-# BigData-Project-team-40
+# Project Summary 
 Treatments done at a Water treatment plant(WTP) are elaborate
 environmental techniques that are challenging to manage. It may vary
 slightly at different locations, depending on the technology of the
