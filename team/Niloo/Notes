@@ -1,1 +1,2 @@
 I have noticed that those red values are calculated based on other values and are not raw date. They are the result of averaging.
+I tried to find relationships between all features using tsne. I was not happy with the plot of data gathered in 2009. Maybe some features are redundant.
