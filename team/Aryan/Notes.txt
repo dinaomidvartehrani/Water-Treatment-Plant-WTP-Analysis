@@ -1,0 +1,3 @@
+I wanted to share some exciting news with the team. I've been working on predicting pH values using UVA and UVT values, and I'm thrilled to report that I've achieved an accuracy of about 95-96% using Neural Network and MLPRegressor.
+I believe that UVA and UVT values have great potential as reliable predictors of pH values in our future projects. I recommend that we continue to explore this potential and expand our dataset to further improve the accuracy of our predictions.
+Let's keep experimenting with different models to optimize our results and work together to make the most of this exciting development!
